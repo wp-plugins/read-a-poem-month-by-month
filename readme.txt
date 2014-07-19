@@ -8,7 +8,7 @@ Version: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use this plugin to display dynamic fresh post content (poems) each month. Could be used for inspirational quotes or any monthly message you have for site visitors. 
+Use this plugin to display dynamic fresh post content (poems) each month. Could be used for inspirational quotes or any monthly message. 
 
 == Description ==
 

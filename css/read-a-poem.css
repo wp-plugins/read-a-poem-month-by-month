@@ -1,0 +1,39 @@
+/**
+ * Styles for read-a-poem plugin
+ * @copyright Dandelion Web Design Inc.
+ */
+.contentArea {
+	border: 1px solid #ccc;
+	padding: 10px;
+	background: #fff;
+}
+
+.contentArea input[type='submit'] {
+	margin: 2% 19%;
+}
+
+.monthWrap {
+	padding: 5px;
+}
+
+.monthWrap span {
+  position: relative;
+  top: 8px;
+}
+
+.poemWrap {
+	width: 60%;
+	margin-left: 40px;
+}
+
+.width5 {
+	width: 5%;
+}
+
+.width10 {
+	width: 10%;
+}
+
+.left {
+	float: left;
+}

@@ -12,10 +12,12 @@ Use this plugin to display different post content (poems) each month.
 
 == Description ==
 
-Use this plugin to display content that changes every month. This plugin creates a 'poem' custom post type. Use a shortcode to display a poem on a page or to cycle through a series of posts to display a different poem each month.
+Read a Poem - Month by Month is a simple way to display fresh website content to site visitors every month. The plugin can be used for any post content, you aren't restricted to poems.
 
-* Use the shortcode [poem-current] to display the poem for the given month on a page
-* Use the shortcode [poem id=XXX] to display a poem in a pag.
+Add your poems to the Read a Poem post entry. Enter 12 poems and then assign them to a month. Add the shortcode to a page to display a different poem each month.
+
+* Use the shortcode [poem-current] to display a different poem each month
+* Use the shortcode [poem id=XXX] to display a specific poem in a page/post.
 * Developers can add do_shortcode('[poem-current]') to their templates.
 
 If you like this plugin please rate it on WordPress.org

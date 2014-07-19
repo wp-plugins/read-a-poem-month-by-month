@@ -1,6 +1,6 @@
 === Read a Poem - Month by Month ===
 Contributors:  dandelionweb, ankitpokhrel
-Tags: poem, poetry, month, rotating content, cycling content, custom post type
+Tags: poem, poetry, month, shortcode, custom post type, dynamic, quotes, writer
 Requires at least: 3.0
 Tested up to: 3.9.1
 Stable tag: trunk
@@ -8,7 +8,7 @@ Version: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Use this plugin to display different post content (poems) each month.
+Use this plugin to display dynamic fresh post content (poems) each month. Could be used for inspirational quotes or any monthly message you have for site visitors. 
 
 == Description ==
 
@@ -17,8 +17,9 @@ Read a Poem - Month by Month is a simple way to display fresh website content to
 Add your poems to the Read a Poem post entry. Enter 12 poems and then assign them to a month. Add the shortcode to a page to display a different poem each month.
 
 * Use the shortcode [poem-current] to display a different poem each month
-* Use the shortcode [poem id=XXX] to display a specific poem in a page/post.
-* Developers can add do_shortcode('[poem-current]') to their templates.
+* Use the shortcode [poem id=XXX] to display a specific poem
+* Shortcodes can be used in a page, post, or a text widget
+* Developers can add do_shortcode('[poem-current]') to their templates
 
 If you like this plugin please rate it on WordPress.org
 
@@ -49,6 +50,10 @@ Yes! The custom post type is called Read a Poem but you can use it for any conte
 
 1. From the All Poems page you can grab the poem's shortcode - go to the "All Poems" screen and copy the poem's shortcode [poem id=XXX]  id=XXX will be the specific id number for your poem.
 2. [poem-current] will display the poem assigned to the current month
+
+= Does the plugin provide a widget? =
+
+No, just use the appropriate shortcode in a text widget
 
 = How do I include Read a Poem in a page template? =
 include echo do_shortcode("[poem-current]"); in the template where you want the poems to display.

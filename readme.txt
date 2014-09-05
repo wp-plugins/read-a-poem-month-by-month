@@ -2,7 +2,7 @@
 Contributors:  dandelionweb, ankitpokhrel
 Tags: poem, poetry, month, shortcode, custom post type, dynamic, quotes, writer
 Requires at least: 3.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: trunk
 Version: 1.0.0
 License: GPLv2 or later
@@ -26,7 +26,7 @@ If you like this plugin please rate it on WordPress.org
 
 == Installation ==
 
-1. Upload read-a-poem folder to the /wp-content/plugins directory 
+1. Install via the WordPress.org plugin directory or by uploading the read-a-poem folder to the /wp-content/plugins directory 
 
 2. Activate the plugin through the Plugins menu in WordPress
 
@@ -53,7 +53,7 @@ Yes! The custom post type is called Read a Poem but you can use it for any conte
 
 = Does the plugin provide a widget? =
 
-No, just use the appropriate shortcode in a text widget
+No, just use the appropriate shortcode in a text widget. If your theme doesn't support shortcodes in widgets, use the Black Studio TinyMCE Widget plugin and place the shortcode in a visual editor widget.
 
 = How do I include Read a Poem in a page template? =
 include echo do_shortcode("[poem-current]"); in the template where you want the poems to display.

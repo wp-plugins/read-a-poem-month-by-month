@@ -1,5 +1,6 @@
 === Read a Poem - Month by Month ===
 Contributors:  dandelionweb, ankitpokhrel
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JEMTB4U8SYFL6
 Tags: poem, poetry, month, shortcode, custom post type, dynamic, quotes, writer
 Requires at least: 3.0
 Tested up to: 4.2.2
@@ -23,6 +24,8 @@ Add your poems to the Read a Poem post entry. Enter 12 poems and then assign the
 
 If you like this plugin please rate it on WordPress.org
 
+= Donations: =
+I appreciate all donations, no matter the size. Further development of this plugin is not contingent on donations, but they are a nice incentive. To donate click on the donation to this plugin button in the sidebar below the Authors.
 
 == Installation ==
 

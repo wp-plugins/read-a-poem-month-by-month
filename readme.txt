@@ -2,7 +2,7 @@
 Contributors:  dandelionweb, ankitpokhrel
 Tags: poem, poetry, month, shortcode, custom post type, dynamic, quotes, writer
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.2.2
 Stable tag: trunk
 Version: 1.0.0
 License: GPLv2 or later
